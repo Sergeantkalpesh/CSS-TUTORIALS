@@ -1,0 +1,24 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    background-color: red;
+    background-image: url(mountain_photo.jpg);
+    background-size: cover;
+}
+
+#box2{
+    background-color: green;
+}
+
+#box3{
+    background-color: aqua;
+}
+
+#box4{
+    background-color: pink;
+}

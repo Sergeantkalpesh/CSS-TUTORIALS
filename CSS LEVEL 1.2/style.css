@@ -1,0 +1,23 @@
+p {
+    text-align: start;
+}
+/* text properties */
+h1 {
+    text-align: center;
+}
+/* text properties */
+a {
+    text-decoration: none;
+}
+/* text properties */
+
+#h1 {
+    font-weight: 100;
+}
+#one{
+    font-family: arial;
+}
+
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

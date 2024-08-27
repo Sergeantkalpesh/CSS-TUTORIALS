@@ -1,0 +1,15 @@
+#box {
+    background-color: blue;
+    /* color: white; */
+    /* this is a comment */
+}
+/* .heading {
+    color: red;
+} */
+
+h1, h2, h3 {
+    color: red;
+}
+button {
+    background-color: green;
+}
